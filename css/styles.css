@@ -1,0 +1,110 @@
+body{
+    background-color:#FFB100;
+}
+
+h1{
+    color:#820000;
+    font-size: 3.625rem;
+    margin: 0.1% 0 10% 8%;
+    width: 40%;
+    font-family: "Montserrat";
+    height:20px;
+    padding-top: 80px;
+}
+
+.container{
+    display: flex;
+    margin:1%;
+    padding-right: 250px;
+    padding-bottom: 1px;
+    padding-left: 250px;
+}
+
+.nav-item{
+    width: 120px;
+}
+
+.nav-link{
+    color:#820000;
+    font-size: 1.25rem;
+}
+
+p{
+    font-family:" Ubuntu";
+    width:40%;
+    font-size: 1.234rem;
+    margin:8%;
+    height:0.1px;
+}
+
+a{
+   font-family: "Montserrat";
+   text-decoration: none;
+}
+
+a:hover{
+   color:white;
+}
+
+.ordernow{
+    background-color: #820000;
+    padding:10px 35px ;
+    height: 8%;
+    margin:1.8% 16% 0 8%;
+    color: azure;
+    font-size: 1.25rem;
+    border-radius: 12px;
+    font-family: "Montserrat";
+}
+
+.row:hover{
+    color: aqua;
+}
+
+
+h2{
+    color:#820000;
+    font-size: 1.25rem;
+    font-family: "Montserrat";
+    margin: 4.5% 0 0 4%;
+}
+
+.icons{
+    text-align: right;
+    width: 1085px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 2%;
+    position: relative;
+    top:45px;
+}
+
+.fa-square-instagram{
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.fa-facebook{
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.fa-square-twitter{
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.mexican{
+    padding-left:60%;
+    height:400px;
+    width:350px;
+    position:absolute;
+    top:30%;
+}
+
+.logo{
+    position:absolute;
+    top:1%;
+    height:100px;
+    margin:2.5%;
+}
